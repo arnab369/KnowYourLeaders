@@ -1,0 +1,63 @@
+<resources>
+<string name="app_name">KnowYourLeaders</string>
+
+<string name="leader_modi">
+        Narendra Modi is an Indian politician serving as the 14th and current Prime Minister of India. He belongs to the Bharatiya Janata Party (BJP), a major political party in India with a Hindu nationalist ideology.
+
+        Modis political career began in the Rashtriya Swayamsevak Sangh (RSS), a Hindu nationalist organization, before joining the BJP. He served as the Chief Minister of the Indian state of Gujarat from 2001 to 2014, during which he was known for his economic policies and development initiatives.
+    </string>
+
+<string name="leader_mamata">
+        Mamata Banerjee is an Indian politician and the Chief Minister of the state of West Bengal. She is the founder and chief of the All India Trinamool Congress (AITC), a major political party in West Bengal, with a focus on regional politics.
+
+        Banerjee is a prominent figure in Indian politics, known for her fiery and outspoken demeanor. She began her political career in the Indian National Congress party but later broke away to form the All India Trinamool Congress in 1998.
+    </string>
+
+<string name="leader_amit">
+        Amit Shah is an Indian politician associated with the Bharatiya Janata Party (BJP), one of the major political parties in India. He has held several significant positions in both the party and the government.
+
+        Amit Shah has been a close confidant of Prime Minister Narendra Modi and has played a crucial role in the rise of the BJP in Indian politics. He has served as the President of the BJP from 2014 to 2020, during which the party witnessed significant electoral successes, including winning the 2014 and 2019 Indian general elections.
+    </string>
+
+<string name="leader_rajnath">
+        Rajnath Singh is an Indian politician serving as the Minister of Defence in the Government of India. He is a prominent member of the Bharatiya Janata Party (BJP), one of the major political parties in India.
+
+        Rajnath Singh has had a long and illustrious political career. He has served in various leadership roles within the BJP and has been a Member of Parliament multiple times. Singh has also served as the Chief Minister of Uttar Pradesh, Indias most populous state, from 2000 to 2002.
+    </string>
+
+<string name="leader_nitin">
+        Nitin Gadkari is an Indian politician associated with the Bharatiya Janata Party (BJP), one of the major political parties in India. He has held several significant positions in both the party and the government.
+
+        Gadkari has served as the Minister of Road Transport and Highways, as well as the Minister of Micro, Small and Medium Enterprises (MSMEs) in the Government of India. He has been credited with spearheading several infrastructure projects aimed at improving Indias road network and transportation systems.
+    </string>
+
+<string name="leader_rahul">
+        Rahul Gandhi is an Indian politician and a prominent member of the Indian National Congress party (INC), one of the major political parties in India. He hails from the Nehru-Gandhi political family, which has played a significant role in Indian politics since the countrys independence.
+
+        Rahul Gandhi is the son of former Prime Minister Rajiv Gandhi and former Congress President Sonia Gandhi. He has served in various capacities within the Congress party, including as its Vice President and, later, as its President.
+    </string>
+
+<string name="leader_piyush">
+        Piyush Goyal is an Indian politician and a prominent member of the Bharatiya Janata Party (BJP), one of the major political parties in India. He has held several significant positions in both the party and the government.
+
+        Goyal has served as the Minister of Railways and Commerce and Industry in the Government of India. He has been credited with spearheading various reforms and initiatives aimed at modernizing Indias railway infrastructure and promoting trade and commerce.
+    </string>
+
+<string name="leader_ashwini">
+        Ashwini Vaishnaw is an Indian politician affiliated with the Bharatiya Janata Party (BJP). He is serving as the 39th Minister of Railways, 55th Communications Minister and 2nd Electronics and Information Technology Minister in Government of India since 2021.He has a background in both bureaucracy and the private sector. Before joining politics, Vaishnaw served as an officer of the Indian Administrative Service (IAS), working in various roles in the state of Odisha. Later, he transitioned to the private sector, where he held leadership positions in companies such as General Electric and Siemens.
+
+        In his political career, Vaishnaw has been elected as a Member of Parliament (MP) to the Rajya Sabha, representing the state of Odisha. He has been associated with the BJP, which is one of the major political parties in India. Throughout his career, Vaishnaw has been involved in various significant roles, contributing to both public service and the corporate sector.
+    </string>
+
+<string name="leader_stalin">
+        M.K. Stalin, whose full name is Muthuvel Karunanidhi Stalin, is an Indian politician and the President of the Dravida Munnetra Kazhagam (DMK) party. He is also the Chief Minister of the Indian state of Tamil Nadu, having assumed office on May 7, 2021, following the DMK-led alliances victory in the state assembly elections.
+
+        M.K. Stalin is the son of the late M. Karunanidhi, a prominent leader and former Chief Minister of Tamil Nadu, and he has been actively involved in Tamil Nadu politics for several decades. He served as the Deputy Chief Minister of Tamil Nadu in the previous DMK government led by his father.
+    </string>
+
+<string name="leader_yogi">
+        Yogi Adityanath, whose real name is Ajay Mohan Bisht, is an Indian politician and a prominent leader of the Bharatiya Janata Party (BJP). He has been serving as the Chief Minister of the Indian state of Uttar Pradesh since March 2017.
+
+        Yogi Adityanath is a controversial figure known for his staunch Hindu nationalist views and his association with various Hindu religious organizations, particularly the Nath sect. He has been a Member of Parliament from the Gorakhpur constituency in Uttar Pradesh multiple times.
+    </string>
+</resources>
